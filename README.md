@@ -46,7 +46,8 @@ meu-buffet-api/
 1. **Clone o repositório:**
 
 ```
-on construction
+git clone https://github.com/gustavobertolasio/meu-buffet-api.git
+cd meu-buffet-api
 ```
 
 2. **Crie e ative um ambiente virtual:**
